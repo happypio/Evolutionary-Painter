@@ -9,3 +9,9 @@ In [raport](https://github.com/happypio/Evolutionary-Painter/blob/master/triangl
 Here are some results!
 
 ![venus reconstruction](https://github.com/happypio/Evolutionary-Painter/blob/master/venus.jpg)
+
+![triangles](https://github.com/happypio/Evolutionary-Painter/blob/master/triangles.jpg)
+
+![scream](https://github.com/happypio/Evolutionary-Painter/blob/master/scream.jpg)
+
+![mona lisa](https://github.com/happypio/Evolutionary-Painter/blob/master/mona_lisa.jpg)
